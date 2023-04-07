@@ -1,5 +1,4 @@
 # Instagram Brute Force Premium - From Indonesian
-<p align="center"><img src="Data/Images/Prem.jpg"/></p>
 <p align="center">Made with ❤️ by <a href="https://github.com/rn509">rn509</a></p>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/rn509/Premium.svg)](https://GitHub.com/rn509/Premium/graphs/contributors/)
@@ -10,15 +9,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/rn509/Premium.svg?style=social&label=Watch)](https://GitHub.com/rn509/Premium/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/rn509/Premium.svg?style=social&label=Fork)](https://GitHub.com/rn509/Premium/network/)
 [![GitHub stars](https://img.shields.io/github/stars/rn509/Premium.svg?style=social&label=Star)](https://GitHub.com/rn509/Premium/stargazers/)
-
-## Features in tools
-<p align="center"><img src="Data/Images/Features.png"/></p>
-
-## Checkpoint results
-<p align="center"><img src="Data/Images/Checkpoint.png"/></p>
-
-## Success results
-<p align="center"><img src="Data/Images/Success.png"/></p>
 
 ## Installation
 ### Termux / Windows PowerShell / Pydroid 3
@@ -42,3 +32,4 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
     $ python3 Prem.py
 
 ## Thank you
+
