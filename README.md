@@ -32,4 +32,3 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
     $ python3 Prem.py
 
 ## Thank you
-
