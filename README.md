@@ -23,8 +23,8 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
     $ pkg install git
     $ SODIUM_INSTALL=system pip install pynacl
 
-    $ git clone https://github.com/rn509/Premium
-    $ cd Premium
+    $ git clone https://github.com/rn509/premium-
+    $ cd premium-
     $ pip3 install -r requirements.txt
 
 ## Usage
